@@ -1,0 +1,11 @@
+/* @import url('https://www.gnu.org/software/emacs/manual.css'); */
+@import url('https://www.gnu.org/software/gnulib/manual.css');
+
+div.header {
+    background-color:#DDDDFF;
+}
+
+/* img[src*="-2x."] { */
+/*     max-width: 50%; */
+/*     height: auto; */
+/* } */
